@@ -1,0 +1,23 @@
+{
+  "name": "cookie-splitter",
+  "version": "1.0.0",
+  "description": "A long (more than 4096 bytes) cookie splitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadhlanfm/cookie-splitter.git"
+  },
+  "keywords": [
+    "cookie",
+    "splitter"
+  ],
+  "author": "Fadhlan Fariz Makarim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadhlanfm/cookie-splitter/issues"
+  },
+  "homepage": "https://github.com/fadhlanfm/cookie-splitter#readme"
+}
